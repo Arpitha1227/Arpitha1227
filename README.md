@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arpitha Divakar aka @Arpitha1227
 - 👀 I’m interested in everything about data!
 - 🌱 I’m currently learning SAS/ Survey Analytics and I'm a Business Intelligence Developer
-- 💞️ I’m looking to collaborate on any research project in the field of Higher Ed or Health
+- 💞️ I’m looking to collaborate on any research project in the field of Higher Ed or Public Health 
 - ⚡ Fun fact: I'm a PADI certified Open water diver!
 
 <!---
